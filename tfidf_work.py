@@ -23,7 +23,7 @@ from nltk.stem.porter import *
 
 df1 = pd.read_csv('Apple_60.csv')
 df2 = pd.read_csv('Deloitte_60.csv')
-df3 = pd.read_csv('Google_60.csv')
+df3 = pd.read_csv('Wallmart 08-05-18 15.51.20.csv')
 
 filename = [df1, df2, df3]
 countlist = []
