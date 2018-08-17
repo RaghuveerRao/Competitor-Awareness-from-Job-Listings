@@ -1,0 +1,601 @@
+,Company Name,Date,Date Raw,Industry,Job Title,Location,State
+0,Aetna,,,Managed Health Care,Lead Enterprise Architect - Analytics,Burlington, MA
+1,Aetna,2018-08-08,1 day ago,Managed Health Care,Sr Application Developer-Java,Alpharetta, GA
+2,Aetna,,,Managed Health Care,Senior Architect - Lead Design Architect,Burlington, MA
+3,Aetna,,,Managed Health Care,Lead Data Analytics Architect,Burlington, MA
+4,Aetna,2018-08-06,3 hours ago,Managed Health Care,Customer Service Rep,Baton Rouge, LA
+5,Aetna,2018-08-07,2 days ago,Managed Health Care,Claim Benefit Specialist,Arlington, TX
+6,Aetna,2018-07-31,9 days ago,Managed Health Care,Engagement Specialist,Jacksonville, FL
+7,Aetna,2018-08-08,1 day ago,Managed Health Care,Case Management Coord,Chicago, IL
+8,Aetna,2018-08-05,4 hours ago,Managed Health Care,Sr Claim Benefit Spec,Tampa, FL
+9,Aetna,2018-07-18,22 days ago,Managed Health Care,"Supvr, Customer Service",Bismarck, ND
+10,Aetna,2018-07-10,30+ days ago,Managed Health Care,Health Concierge,Bismarck, ND
+11,Aetna,2018-08-02,7 days ago,Managed Health Care,Answer Team Consultant,Fresno, CA
+12,Aetna,2018-07-26,14 days ago,Managed Health Care,Customer Service Supervisor,Atlanta, GA
+13,Aetna,2018-07-27,13 days ago,Managed Health Care,Peer Support Specialist,Princeton, NJ
+14,Aetna,2018-08-07,2 days ago,Managed Health Care,Java Engineer,Burlington, MA
+15,Aetna,2018-07-28,12 hours ago,Managed Health Care,Sr. Data Operations Specialist - Informatica,Alpharetta, GA
+16,Aetna,2018-07-18,22 days ago,Managed Health Care,Bilingual(Spanish) - Customer Service Representative,Fresno, CA
+17,Aetna,2018-08-08,1 day ago,Managed Health Care,Analyst,Chicago, IL
+18,Aetna,2018-08-07,2 days ago,Managed Health Care,"Supvr, Service Operations",San Antonio, TX
+19,Aetna,2018-08-08,1 day ago,Managed Health Care,Trainer,Township of Moon, PA
+20,Aetna,2018-07-23,17 hours ago,Managed Health Care,Project Coordinator,Tampa, FL
+21,Aetna,2018-07-19,21 days ago,Managed Health Care,Bilingual (Creole) Customer Service Representative,Sunrise, FL
+22,Aetna,2018-08-01,8 days ago,Managed Health Care,Community Health Educator,Bradenton, FL
+23,Aetna,2018-07-11,29 days ago,Managed Health Care,Customer Service Representative - Bilingual,Houston, TX
+24,Aetna,2018-07-31,9 days ago,Managed Health Care,Eligibility Consultant - Paper,Newark, DE
+25,Aetna,2018-07-23,17 hours ago,Managed Health Care,Care Management Associate,San Antonio, TX
+26,Aetna,2018-07-13,27 days ago,Managed Health Care,Customer Service Rep (NIGHT or OVERNIGHT SHIFT),Sandy, UT
+27,Aetna,2018-07-23,17 hours ago,Managed Health Care,Network Relations Cnslt,Tampa, FL
+28,Aetna,2018-07-21,19 days ago,Managed Health Care,Eligibility Cnslt - Paper,Harrisburg, PA
+29,Aetna,2018-08-01,8 days ago,Managed Health Care,Health Coach - Wellness,Fresno, CA
+30,Aetna,2018-08-01,8 days ago,Managed Health Care,Provider Phone Representative,Columbus, OH
+31,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Supervisor, Customer Service",Plymouth, MN
+32,Aetna,2018-07-26,14 days ago,Managed Health Care,Associate Eligibility Consultnat,Township of Moon, PA
+33,Aetna,2018-07-12,28 days ago,Managed Health Care,Clinical Customer Service Rep,New Albany, OH
+34,Aetna,2018-07-23,17 hours ago,Managed Health Care,"Supervisor, Testing",Bristol, VA
+35,Aetna,2018-07-14,26 days ago,Managed Health Care,Project Specialist,Chicago, IL
+36,Aetna,2018-07-20,20 days ago,Managed Health Care,Inb/Outb Queue Assoc,New Albany, OH
+37,Aetna,2018-08-04,5 days ago,Managed Health Care,Network Relations Spec,Sunrise, FL
+38,Aetna,2018-07-23,17 hours ago,Managed Health Care,Care Management Assistant,Sunrise, FL
+39,Aetna,2018-07-13,27 days ago,Managed Health Care,Eligibility Consultant -Electronic,Fresno, CA
+40,Aetna,2018-07-31,9 days ago,Managed Health Care,Stop Loss Analyst,Plymouth, MN
+41,Aetna,2018-07-28,12 days ago,Managed Health Care,Network Manager (Out of state considered but will report into Aetna office),Urbandale, IA
+42,Aetna,2018-07-23,17 hours ago,Managed Health Care,Sales Events Coordinator,Tampa, FL
+43,Aetna,2018-07-13,27 days ago,Managed Health Care,General Management Internship,Hartford, CT
+44,Aetna,2018-08-07,2 days ago,Managed Health Care,Account Services Specialist,Rockville, MD
+45,Aetna,2018-07-23,17 hours ago,Managed Health Care,Network Relations Mgr,Tampa, FL
+46,Aetna,2018-08-03,6 days ago,Managed Health Care,Production Designer,Denver, CO
+47,Aetna,2018-07-12,28 days ago,Managed Health Care,MDCD Account Associate,Richmond, VA
+48,Aetna,2018-07-27,13 days ago,Managed Health Care,Network Relations Consultant,New York, NY
+49,Aetna,2018-07-12,28 days ago,Managed Health Care,Health Fitness Professional,Bismarck, ND
+50,Aetna,2018-08-07,2 days ago,Managed Health Care,Contract Negotiator,Sugar Land, TX
+51,Aetna,2018-07-25,15 days ago,Managed Health Care,Associate Eligibility Consultant,Township of Moon, PA
+52,Aetna,2018-07-10,30+ days ago,Managed Health Care,Client Benefit Analyst - Direct Team,Chicago, IL
+53,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Chief Executive Officer, Aetna Better Health of Florida",Sunrise, FL
+54,Aetna,2018-08-03,6 days ago,Managed Health Care,Sr Admin Assistant,Parsippany, NJ
+55,Aetna,2018-08-07,2 days ago,Managed Health Care,Commission Specialist,Blue Bell, PA
+56,Aetna,2018-07-11,29 days ago,Managed Health Care,Negotiator Analyst,Plymouth, MN
+57,Aetna,2018-07-25,15 days ago,Managed Health Care,OH/TX DSNP Prior Auth Rep,New Albany, OH
+58,Aetna,2018-07-19,21 days ago,Managed Health Care,MMA Sales Associate,San Antonio, TX
+59,Aetna,2018-08-06,3 hours ago,Managed Health Care,Health Coach Consultant,Hartford, CT
+60,Aetna,2018-07-25,15 days ago,Managed Health Care,Network Recruiter for Behavioral Health,Blue Bell, PA
+61,Aetna,2018-08-08,1 day ago,Managed Health Care,AHM Associate Account Mgr,High Point, NC
+62,Aetna,2018-08-03,6 days ago,Managed Health Care,Sales Support Coordinator,Jacksonville, FL
+63,Aetna,2018-07-24,16 days ago,Managed Health Care,PLS Account Associate,El Paso, TX
+64,Aetna,2018-07-18,22 days ago,Managed Health Care,LG Underwriter,Hartford, CT
+65,Aetna,2018-07-26,14 days ago,Managed Health Care,KS MCD Prior Auth Rep,Overland Park, KS
+66,Aetna,2018-07-12,28 days ago,Managed Health Care,Plan Sponsor Liaison,Chicago, IL
+67,Aetna,2018-08-01,8 days ago,Managed Health Care,Prod & Reg Apprvls Cnslt,Hartford, CT
+68,Aetna,2018-08-07,2 days ago,Managed Health Care,Account Manager,Chicago, IL
+69,Aetna,2018-07-31,9 days ago,Managed Health Care,Appeals Analyst,Township of Moon, PA
+70,Aetna,2018-07-10,30+ days ago,Managed Health Care,Training & Qual Clinician,Doral, FL
+71,Aetna,2018-08-08,1 day ago,Managed Health Care,UM Nurse Consultant,San Antonio, TX
+72,Aetna,2018-08-08,1 day ago,Managed Health Care,Case Management Coordinator Behavioral Mental Health,Charlottesville, VA
+73,Aetna,2018-08-07,2 days ago,Managed Health Care,Field Case Mgr-Medical,Parsippany, NJ
+74,Aetna,2018-07-31,9 days ago,Managed Health Care,Care Coordinator,Township of Moon, PA
+75,Aetna,2018-07-10,30+ days ago,Managed Health Care,KS MCD Special Investigations Unit Sr Investigator (51679BR),Overland Park, KS
+76,Aetna,2018-07-28,12 days ago,Managed Health Care,"Outreach Coordinator, HEDIS",Township of Moon, PA
+77,Aetna,2018-07-20,20 days ago,Managed Health Care,Medicare Member Experience Specialist,Fresno, CA
+78,Aetna,2018-07-10,30+ days ago,Managed Health Care,Strategic Planner,Tampa, FL
+79,Aetna,2018-07-10,30 days ago,Managed Health Care,Integrated Product Analyst,Chicago, IL
+80,Aetna,2018-07-23,17 hours ago,Managed Health Care,MMA Associate Account Manager,Blue Bell, PA
+81,Aetna,2018-07-25,15 days ago,Managed Health Care,OH/TX DSNP Member Service Rep,New Albany, OH
+82,Aetna,2018-07-11,29 days ago,Managed Health Care,Animator / Motion Graphics Designer,Chicago, IL
+83,Aetna,2018-07-10,30+ days ago,Managed Health Care,EAP Management Consultant,Plantation, FL
+84,Aetna,2018-07-19,21 days ago,Managed Health Care,Provider Data Services Administrator,Philadelphia, PA
+85,Aetna,2018-07-10,30+ days ago,Managed Health Care,Program Coordinator,Philadelphia, PA
+86,Aetna,2018-07-12,28 days ago,Managed Health Care,Finance Internship,Hartford, CT
+87,Aetna,2018-08-07,2 days ago,Managed Health Care,Bilingual Case Management Coordinator,Sunrise, FL
+88,Aetna,2018-08-01,8 days ago,Managed Health Care,Programming Consultant,Blue Bell, PA
+89,Aetna,2018-07-23,17 hours ago,Managed Health Care,"Exec Dir, Service Ops",Jacksonville, FL
+90,Aetna,2018-08-08,1 day ago,Managed Health Care,QM Nurse Consultant,Bismarck, ND
+91,Aetna,2018-07-10,30 days ago,Managed Health Care,KS MCD Member Services Rep,Overland Park, KS
+92,Aetna,2018-08-05,4 hours ago,Managed Health Care,"Dir, MMA Acct Directors",Hartford, CT
+93,Aetna,2018-07-27,13 days ago,Managed Health Care,Case Management Coordinator (LSW),New Albany, OH
+94,Aetna,2018-07-13,27 days ago,Managed Health Care,General Management Development Program,Hartford, CT
+95,Aetna,2018-08-08,1 day ago,Managed Health Care,Informatics Analyst,Denver, CO
+96,Aetna,2018-07-10,30+ days ago,Managed Health Care,Provider Data Svcs Cnslt,St. Louis, MO
+97,Aetna,2018-07-12,28 days ago,Managed Health Care,Finance Leadership Development Program,Hartford, CT
+98,Aetna,2018-08-01,8 days ago,Managed Health Care,Sr Govt Relations Spec,Richmond, VA
+99,Aetna,2018-07-11,29 days ago,Managed Health Care,Designer,Chicago, IL
+100,Aetna,2018-07-29,11 days ago,Managed Health Care,Medicare/ Medicaid Contract Negotiator,Detroit, MI
+101,Aetna,2018-07-13,27 days ago,Managed Health Care,CA MCD Case Management Coord,San Diego, CA
+102,Aetna,2018-07-22,18 days ago,Managed Health Care,UM Nurse Associate,New Albany, OH
+103,Aetna,2018-07-26,14 days ago,Managed Health Care,Sales Support Specialist,Hartford, CT
+104,Aetna,2018-07-10,30+ days ago,Managed Health Care,Onboarding Specialist,Plantation, FL
+105,Aetna,2018-07-10,30+ days ago,Managed Health Care,Financial Analyst,Phoenix, AZ
+106,Aetna,2018-07-20,20 days ago,Managed Health Care,Grievance and Appeals Analyst,New Albany, OH
+107,Aetna,2018-07-10,30 days ago,Managed Health Care,KS MCD Provider Relations Tele,Overland Park, KS
+108,Aetna,2018-07-10,30+ days ago,Managed Health Care,Medicare Retention Specialist,Louisville, KY
+109,Aetna,2018-07-17,23 days ago,Managed Health Care,Account Coordinator,Hartford, CT
+110,Aetna,2018-07-31,9 days ago,Managed Health Care,Sr Communications Cnslt- 52591BR,New York, NY
+111,Aetna,2018-07-27,13 days ago,Managed Health Care,Executive Assistant,Hartford, CT
+112,Aetna,2018-07-10,30+ days ago,Managed Health Care,Scrum Master,Chicago, IL
+113,Aetna,2018-07-18,22 days ago,Managed Health Care,Medical Economics Analyst,Plano, TX
+114,Aetna,2018-07-10,30+ days ago,Managed Health Care,Entry Level Application Developer,Hartford, CT
+115,Aetna,2018-07-18,22 days ago,Managed Health Care,Regional VP of Pharmacy Sales,Chicago, IL
+116,Aetna,2018-07-17,23 days ago,Managed Health Care,INT Associate Account Manager,Phoenix, AZ
+117,Aetna,2018-07-10,30 days ago,Managed Health Care,KS MCD Provider Liaison,Wichita, KS
+118,Aetna,2018-08-04,5 days ago,Managed Health Care,Senior Analyst,Franklin, TN
+119,Aetna,2018-07-19,21 days ago,Managed Health Care,Proposal Analyst,Amherst, NY
+120,Aetna,2018-07-21,19 days ago,Managed Health Care,KS MCD Administrative Assistan,Overland Park, KS
+121,Aetna,2018-07-12,28 days ago,Managed Health Care,"Supervisor, Service Operations",Township of Moon, PA
+122,Aetna,2018-07-19,21 days ago,Managed Health Care,Data Science Analyst,Hartford, CT
+123,Aetna,2018-07-10,30 days ago,Managed Health Care,KS MCD Community Outreach Coordinator,Overland Park, KS
+124,Aetna,2018-07-28,12 days ago,Managed Health Care,"Certified Wellness Professional - Health Coach - Wellness Bartow, FL",Tampa, FL
+125,Aetna,2018-08-07,2 days ago,Managed Health Care,Case Manager,San Antonio, TX
+126,Aetna,2018-07-28,12 days ago,Managed Health Care,MMA Account Manager,Memphis, TN
+127,Aetna,2018-07-10,30+ days ago,Managed Health Care,Medicare Advantage Field Sales Representative,Sunrise, FL
+128,Aetna,2018-08-07,2 days ago,Managed Health Care,"Benefits Administration Director, H&W Ongoing Client Services",Chicago, IL
+129,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Supvr, Account Management",Omaha, NE
+130,Aetna,2018-07-19,21 days ago,Managed Health Care,Strategic Proposal Writer,Hartford, CT
+131,Aetna,2018-07-10,30+ days ago,Managed Health Care,KS MCD Workforce Specialist,Overland Park, KS
+132,Aetna,2018-07-17,23 days ago,Managed Health Care,KS MCD Credentialing Analyst,Overland Park, KS
+133,Aetna,2018-07-13,27 days ago,Managed Health Care,Plan Document Writer,Amherst, NY
+134,Aetna,2018-08-07,2 days ago,Managed Health Care,Associate Counsel,Hartford, CT
+135,Aetna,2018-07-10,30+ days ago,Managed Health Care,Medical Underwriter,Franklin, TN
+136,Aetna,2018-07-20,20 days ago,Managed Health Care,Care Management Associate - KS MCD,Overland Park, KS
+137,Aetna,2018-07-10,30+ days ago,Managed Health Care,Clinical Pharmacy Advisor - Aetna Medicaid,Louisville, KY
+138,Aetna,2018-07-23,17 hours ago,Managed Health Care,Application Support Analyst,Township of Moon, PA
+139,Aetna,2018-07-26,14 days ago,Managed Health Care,MDCR Sales Executive,Tampa, FL
+140,Aetna,2018-07-10,30+ days ago,Managed Health Care,Underwriting Consultant (PEO),Hartford, CT
+141,Aetna,2018-07-31,9 days ago,Managed Health Care,UM Clinical Consultant,Baton Rouge, LA
+142,Aetna,2018-08-01,8 days ago,Managed Health Care,Bilingual Preferred - Care Management Associate,New York, NY
+143,Aetna,2018-07-20,20 days ago,Managed Health Care,Production Support Engineer,Denver, CO
+144,Aetna,2018-07-24,16 days ago,Managed Health Care,Operational Accounting Analyst,Amherst, NY
+145,Aetna,2018-07-25,15 days ago,Managed Health Care,Strategic Proposal Consultant,Hartford, CT
+146,Aetna,2018-07-10,30+ days ago,Managed Health Care,Administrative Assistant,Amherst, NY
+147,Aetna,2018-08-07,2 days ago,Managed Health Care,Case Manager (RN) Registered Nurse OR LCSW OR LCPC (Social Worker) SOUTH OF CHICAGO,Chicago, IL
+148,Aetna,2018-07-20,20 days ago,Managed Health Care,Social Worker,Tucson, AZ
+149,Aetna,2018-08-02,7 days ago,Managed Health Care,Compliance Consultant,Blue Bell, PA
+150,Aetna,2018-08-08,1 day ago,Managed Health Care,Senior Marketing Communication,Burlington, MA
+151,Aetna,2018-08-02,7 days ago,Managed Health Care,Product Manager (Local Markets & Commerical),Los Angeles, CA
+152,Aetna,2018-07-28,12 days ago,Managed Health Care,Network Manager,Phoenix, AZ
+153,Aetna,2018-07-23,17 hours ago,Managed Health Care,"Mgr, Network Management",Tampa, FL
+154,Aetna,2018-08-05,4 hours ago,Managed Health Care,Registered Nurse Case Manager,Princeton, NJ
+155,Aetna,2018-07-11,29 days ago,Managed Health Care,KS Medicaid HEDIS Outreach Coordinator,Overland Park, KS
+156,Aetna,2018-07-10,30+ days ago,Managed Health Care,Associate Account Manager - International Business,Chicago, IL
+157,Aetna,2018-07-26,14 days ago,Managed Health Care,QA Engineer,Chicago, IL
+158,Aetna,2018-07-10,30 days ago,Managed Health Care,KS MCD G&A Coordinator,Overland Park, KS
+159,Aetna,2018-07-23,17 hours ago,Managed Health Care,Sr Application Support Analyst,Township of Moon, PA
+160,Aetna,2018-08-07,2 days ago,Managed Health Care,Assoc Software Development Eng,Denver, CO
+161,Aetna,2018-07-12,28 days ago,Managed Health Care,Assistant Actuary,Walnut Creek, CA
+162,Aetna,2018-07-10,30+ days ago,Managed Health Care,Integration Lead,Chicago, IL
+163,Aetna,2018-07-25,15 days ago,Managed Health Care,Sales Support Consultant,Phoenix, AZ
+164,Aetna,2018-07-25,15 days ago,Managed Health Care,Care Management Associate-OH/TX DSNP,New Albany, OH
+165,Aetna,2018-07-10,30+ days ago,Managed Health Care,Account Client Mgr AFA,Arlington, TX
+166,Aetna,2018-07-10,30+ days ago,Managed Health Care,Network Ops Consultant,Minneapolis, MN
+167,Aetna,2018-07-23,17 days ago,Managed Health Care,Network Provider Relations Consultant,Grand Rapids, MI
+168,Aetna,2018-07-10,30+ days ago,Managed Health Care,Underwriter (51 - 100 New Business),Omaha, NE
+169,Aetna,2018-07-21,19 days ago,Managed Health Care,Underwriting Consultant (Dental/Vision) - 52305BR,Blue Bell, PA
+170,Aetna,2018-08-02,7 days ago,Managed Health Care,Third Party Risk Analyst and S,Denver, CO
+171,Aetna,2018-08-07,2 days ago,Managed Health Care,"Dir, Network Management",Sugar Land, TX
+172,Aetna,2018-08-04,5 days ago,Managed Health Care,Director of Operations,San Francisco, CA
+173,Aetna,2018-08-08,1 day ago,Managed Health Care,Associate Web Engineer,Hartford, CT
+174,Aetna,2018-07-18,22 days ago,Managed Health Care,Sales Support Administrator,Santa Ana, CA
+175,Aetna,2018-07-10,30+ days ago,Managed Health Care,Dental Network Recruiter - 50342BR,Chicago, IL
+176,Aetna,2018-07-29,11 days ago,Managed Health Care,Business Consultant,Santa Ana, CA
+177,Aetna,2018-07-18,22 days ago,Managed Health Care,Medical Economics Consultant,Plano, TX
+178,Aetna,2018-07-26,14 days ago,Managed Health Care,Contracting Manager (Networks & Contacting)- 46625BR,Overland Park, KS
+179,Aetna,2018-07-13,27 days ago,Managed Health Care,Account Coordinator-COBRA and Direct Billing,Grand Rapids, MI
+180,Aetna,2018-07-10,30+ days ago,Managed Health Care,NCQA Accreditation Manager (48840BR),Sunrise, FL
+181,Aetna,2018-07-30,10 days ago,Managed Health Care,Data Scientist,New York, NY
+182,Aetna,2018-07-10,30 days ago,Managed Health Care,KS Medicaid EPSDT Coordinator,Overland Park, KS
+183,Aetna,2018-07-10,30+ days ago,Managed Health Care,Associate Account Manager,St. Louis, MO
+184,Aetna,2018-07-20,20 days ago,Managed Health Care,TX DSNP Medicare Provider Relations,Dallas, TX
+185,Aetna,2018-08-01,8 days ago,Managed Health Care,Medicare Engagement Manager,Charlotte, NC
+186,Aetna,2018-08-07,2 days ago,Managed Health Care,Senior Consultant,Rockville, MD
+187,Aetna,2018-07-10,30+ days ago,Managed Health Care,International Sales Executive,Parsippany, NJ
+188,Aetna,2018-07-10,30+ days ago,Managed Health Care,Recovery & Resiliency Administrator (CPS) - KS MCD - 51842BR,Overland Park, KS
+189,Aetna,2018-08-02,7 days ago,Managed Health Care,Clinical Claim Review Nurse Co,Bismarck, ND
+190,Aetna,2018-08-02,7 days ago,Managed Health Care,Social Worker (LCSW),Sarasota, FL
+191,Aetna,2018-08-07,2 days ago,Managed Health Care,Digital Manager,New York, NY
+192,Aetna,2018-07-27,13 days ago,Managed Health Care,National Account Manager,New Albany, OH
+193,Aetna,2018-07-23,17 hours ago,Managed Health Care,Middle Market Associate Account Manager,Harrisburg, PA
+194,Aetna,2018-07-10,30+ days ago,Managed Health Care,Actuary I - 51514BR,Hartford, CT
+195,Aetna,2018-07-17,23 hours ago,Managed Health Care,Case Manager RN - 49737BR,Princeton, NJ
+196,Aetna,2018-08-06,3 days ago,Managed Health Care,Sales Executive - Western Region - 49793BR,Walnut Creek, CA
+197,Aetna,2018-08-03,6 days ago,Managed Health Care,App Softwr Delivery Advsr,Chantilly, VA
+198,Aetna,2018-08-07,2 days ago,Managed Health Care,Advanced Software Development,Denver, CO
+199,Aetna,2018-07-10,30+ days ago,Managed Health Care,Case Management Coordinator - KS MCD,Overland Park, KS
+200,Aetna,2018-08-08,1 day ago,Managed Health Care,Sr Informatics Cnslt/Lead,Jacksonville, FL
+201,Aetna,2018-08-01,8 days ago,Managed Health Care,"Sr Dir, Innovation Strtgy",New York, NY
+202,Aetna,2018-07-16,24 days ago,Managed Health Care,PayFlex Sales Executive,Los Angeles, CA
+203,Aetna,2018-08-03,6 days ago,Managed Health Care,Health Care QM Project Manager,Granby, CT
+204,Aetna,2018-07-10,30+ days ago,Managed Health Care,Medicare Sales Executive,Plymouth, MN
+205,Aetna,2018-07-17,23 days ago,Managed Health Care,MMA Sales Executive,Phoenix, AZ
+206,Aetna,2018-07-10,30+ days ago,Managed Health Care,Product Analyst - Training 50280BR,Hartford, CT
+207,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Implementation Lead, Benefits Administration",Chicago, IL
+208,Aetna,2018-08-08,1 day ago,Managed Health Care,Pharmacy Technician II,Plantation, FL
+209,Aetna,2018-07-11,29 days ago,Managed Health Care,"Senior Writer, Sales Enablement",Downers Grove, IL
+210,Aetna,2018-08-08,1 day ago,Managed Health Care,Distribution Partner Relationship Manager,Blue Bell, PA
+211,Aetna,2018-07-10,30+ days ago,Managed Health Care,UM Nurse Consultant (RN),Middletown, OH
+212,Aetna,2018-07-23,17 hours ago,Managed Health Care,Financial Sr Associate,Hartford, CT
+213,Aetna,2018-07-30,10 days ago,Managed Health Care,Cost Management Business Consultant,Minneapolis, MN
+214,Aetna,2018-08-03,6 days ago,Managed Health Care,Contract Lead,Hartford, CT
+215,Aetna,2018-08-02,7 days ago,Managed Health Care,Program Manager - Medicare VBC,Denver, CO
+216,Aetna,2018-07-11,29 days ago,Managed Health Care,Plan Sponsor Svc Cnslt,Blue Bell, PA
+217,Aetna,2018-08-04,5 days ago,Managed Health Care,Senior Copywriter,Wellesley, MA
+218,Aetna,2018-07-11,29 days ago,Managed Health Care,KS Medicaid Health Care Quality Management Consultant,Overland Park, KS
+219,Aetna,2018-07-10,30 days ago,Managed Health Care,Director of Contracting,Minneapolis, MN
+220,Aetna,2018-07-10,30+ days ago,Managed Health Care,Underwriting Consultant (Stop Loss),Linthicum, MD
+221,Aetna,2018-07-10,30+ days ago,Managed Health Care,Well-Being Product Manager,New York, NY
+222,Aetna,2018-07-10,30+ days ago,Managed Health Care,VA MCD Prior Auth Nurse,Richmond, VA
+223,Aetna,2018-07-18,22 days ago,Managed Health Care,Project Manager,Hartford, CT
+224,Aetna,2018-07-10,30+ days ago,Managed Health Care,Legal Benefit Writer / Plan Documents,Amherst, NY
+225,Aetna,2018-08-04,5 hours ago,Managed Health Care,KS MCD Pharmacy Service Manager,Overland Park, KS
+226,Aetna,2018-07-10,30+ days ago,Managed Health Care,KS MCD Housing / Community Services,Overland Park, KS
+227,Aetna,2018-07-18,22 days ago,Managed Health Care,Claim Operations Analyst,New Albany, OH
+228,Aetna,2018-07-10,30+ days ago,Managed Health Care,KS Medicaid Contract Negotiator,Overland Park, KS
+229,Aetna,2018-07-10,30+ days ago,Managed Health Care,EAP Clinical Counselor,San Diego, CA
+230,Aetna,2018-07-28,12 days ago,Managed Health Care,"Sr Dir, PLS Mkt Sls & Svc",Phoenix, AZ
+231,Aetna,2018-07-17,23 days ago,Managed Health Care,Windows Systems Engineer (Night Shift),Phoenix, AZ
+232,Aetna,2018-08-02,7 days ago,Managed Health Care,Provider Project Program Mgr,Hartford, CT
+233,Aetna,2018-08-05,4 days ago,Managed Health Care,PHG Sales Executive,Hartford, CT
+234,Aetna,2018-07-10,30+ days ago,Managed Health Care,Benefits Administration - Client Relationship Manager,Chicago, IL
+235,Aetna,2018-07-31,9 days ago,Managed Health Care,"Financial Reporting & Analysis, Analyst",Hartford, CT
+236,Aetna,2018-07-26,14 days ago,Managed Health Care,"Medical Claims Supervisor, Medicaid & Medicare Operations (52479BR)",Phoenix, AZ
+237,Aetna,2018-07-10,30+ days ago,Managed Health Care,National Account Executive,San Francisco, CA
+238,Aetna,2018-07-10,30+ days ago,Managed Health Care,Account Manager - Benefits Administration,Chicago, IL
+239,Aetna,2018-07-10,30+ days ago,Managed Health Care,Medicare Sales Representative,Birmingham, AL
+240,Aetna,2018-07-13,27 days ago,Managed Health Care,IT SCRUM Master,Chicago, IL
+241,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Project Manager,Lansing, MI
+242,Aetna,2018-07-13,27 days ago,Managed Health Care,"Case Management Coordinator Behavioral Health Tidewater, VA",Norfolk, VA
+243,Aetna,2018-07-10,30+ days ago,Managed Health Care,SGB Sales Executive,Sugar Land, TX
+244,Aetna,2018-07-23,17 hours ago,Managed Health Care,Advanced Software Devolpment Engineer,Chicago, IL
+245,Aetna,2018-07-10,30 days ago,Managed Health Care,Implementations Project Mgr,Phoenix, AZ
+246,Aetna,2018-07-31,9 days ago,Managed Health Care,Applied Behavior Analysis UM Clinical Consultant,Kenner, LA
+247,Aetna,2018-07-30,10 hours ago,Managed Health Care,Sr Data Analyst,Sunrise, FL
+248,Aetna,2018-07-10,30+ days ago,Managed Health Care,Certified Business Continuity Professional (CBCP) - 50725BR,Phoenix, AZ
+249,Aetna,2018-07-28,12 days ago,Managed Health Care,"Sr Dir, MMA Mkt Sls & Svc",Tulsa, OK
+250,Aetna,2018-08-07,2 days ago,Managed Health Care,Senior Data Consultant,Detroit, MI
+251,Aetna,2018-07-10,30+ days ago,Managed Health Care,Informatics Cnslt/Lead,Jacksonville, FL
+252,Aetna,2018-07-12,28 days ago,Managed Health Care,Talent Acquisition Project Manager,Hartford, CT
+253,Aetna,2018-08-07,2 days ago,Managed Health Care,Advertising Account Executive,Wellesley, MA
+254,Aetna,2018-07-10,30+ days ago,Managed Health Care,Product Management & Development (Local Markets GA/LA/AL/MS) 51669BR,Metairie, LA
+255,Aetna,2018-08-01,8 days ago,Managed Health Care,Financial Analysis & Reporting Associate,Blue Bell, PA
+256,Aetna,2018-08-08,1 day ago,Managed Health Care,Senior Sales Executive - Public Sector,Atlanta, GA
+257,Aetna,2018-08-08,1 day ago,Managed Health Care,Informatics Consultant/Lead,Beachwood, OH
+258,Aetna,2018-07-10,30+ days ago,Managed Health Care,"KS MCD Manager, Grievance and Appeal (51778BR)",Overland Park, KS
+259,Aetna,2018-07-30,10 hours ago,Managed Health Care,QA Business Consultant,Hartford, CT
+260,Aetna,2018-07-27,13 days ago,Managed Health Care,Member Retention Manager,New York, NY
+261,Aetna,2018-08-02,7 days ago,Managed Health Care,IT Audit Liaison - 52557BR,Hartford, CT
+262,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Mgr, Plan Sponsor Support",Sunrise, FL
+263,Aetna,2018-08-07,2 days ago,Managed Health Care,Business Project Program Manager,Hartford, CT
+264,Aetna,2018-07-27,13 days ago,Managed Health Care,Utilization Management Nurse Consultant - RN,Cary, NC
+265,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Account Manager,Chicago, IL
+266,Aetna,2018-08-02,7 days ago,Managed Health Care,Clinical Case Manager BH (LCSW),Sarasota, FL
+267,Aetna,2018-07-10,30+ days ago,Managed Health Care,TPA Account Director,Kent, WA
+268,Aetna,2018-07-10,30+ days ago,Managed Health Care,Medical Director (Aetna Medicaid),Phoenix, AZ
+269,Aetna,2018-07-10,30+ days ago,Managed Health Care,KS Medicaid Information Systems Coordinator (51835BR),Overland Park, KS
+270,Aetna,2018-08-08,1 day ago,Managed Health Care,Sr Informatics Analyst,Beachwood, OH
+271,Aetna,2018-07-10,30+ days ago,Managed Health Care,Network Market Head,Chantilly, VA
+272,Aetna,2018-07-10,30+ days ago,Managed Health Care,VA MCD HC QM Project Mgr,Bristol, VA
+273,Aetna,2018-07-10,30+ days ago,Managed Health Care,Communications Director - 50468BR,Hartford, CT
+274,Aetna,2018-07-28,12 days ago,Managed Health Care,"Controller, Medicare Supplement - 51926BR",Franklin, TN
+275,Aetna,2018-07-26,14 days ago,Managed Health Care,Health Coach Consultant (RN),Sugar Land, TX
+276,Aetna,2018-07-14,26 days ago,Managed Health Care,Sr. Provider Data Analyst,Baton Rouge, LA
+277,Aetna,2018-07-22,18 days ago,Managed Health Care,Manager of User Interface Design,Denver, CO
+278,Aetna,2018-07-18,22 days ago,Managed Health Care,"Field Case Mgr-Medical RN Little Rock, N Little Rock 1 Full Time & 1 Part Time Opening",Rogers, AR
+279,Aetna,2018-07-31,9 days ago,Managed Health Care,Public and Labor Segment Account Executive,Blue Bell, PA
+280,Aetna,2018-07-10,30+ days ago,Managed Health Care,WebSphere Engineer,Hartford, CT
+281,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Manager, Design Operations",Burlington, MA
+282,Aetna,2018-07-10,30 days ago,Managed Health Care,Data Configuration Coordinator (Non IT),Denver, CO
+283,Aetna,2018-07-24,16 days ago,Managed Health Care,Joint Venture Client Manager,Dallas, TX
+284,Aetna,2018-07-10,30+ days ago,Managed Health Care,Network Manager - NJ Medicaid Health Plan,Princeton, NJ
+285,Aetna,2018-08-03,6 days ago,Managed Health Care,Sr Compliance Consultant,Hartford, CT
+286,Aetna,2018-08-03,6 days ago,Managed Health Care,Cybersecurity Risk Analyst,Beachwood, OH
+287,Aetna,2018-07-10,30+ days ago,Managed Health Care,Plan Documents Quality and Tra,Amherst, NY
+288,Aetna,2018-07-18,22 days ago,Managed Health Care,Lead Data Architect-52009BR,Burlington, MA
+289,Aetna,2018-07-10,30+ days ago,Managed Health Care,UX Copywriter,Cupertino, CA
+290,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr UX Researcher,Denver, CO
+291,Aetna,2018-07-27,13 days ago,Managed Health Care,Compliance Lead,Blue Bell, PA
+292,Aetna,2018-07-10,30+ days ago,Managed Health Care,Project Manager (Rating Environment Communications),St. Louis, MO
+293,Aetna,2018-08-03,6 days ago,Managed Health Care,Agile Product Owner Coach,Amherst, NY
+294,Aetna,2018-07-26,14 days ago,Managed Health Care,Data Engineer,Wellesley, MA
+295,Aetna,2018-08-02,7 days ago,Managed Health Care,Third Party Risk Senior Analys,Denver, CO
+296,Aetna,2018-07-10,30 days ago,Managed Health Care,Finance Manager - 52077BR,Philadelphia, PA
+297,Aetna,2018-08-02,7 days ago,Managed Health Care,Splunk Engineer - 52610BR,Hartford, CT
+298,Aetna,2018-07-24,16 days ago,Managed Health Care,"Mgr, Health Care QM",Township of Moon, PA
+299,Aetna,2018-07-10,30+ days ago,Managed Health Care,Medicare Complaint Supervisor (50755BR),Township of Moon, PA
+300,Aetna,2018-07-21,19 days ago,Managed Health Care,Senior Clinical Strategist,Los Angeles, CA
+301,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr Financial Analyst - 50115BR,Sunrise, FL
+302,Aetna,2018-07-20,20 days ago,Managed Health Care,Complaint and Appeals Manager - Medicare & Medicaid (52267BR),New Albany, OH
+303,Aetna,2018-07-11,29 days ago,Managed Health Care,KS MCD Executive Assistant,Overland Park, KS
+304,Aetna,2018-08-03,6 days ago,Managed Health Care,Salesforce Project Configurator,Hartford, CT
+305,Aetna,2018-07-10,30+ days ago,Managed Health Care,Small Group Solutions Analyst 51292BR,Hartford, CT
+306,Aetna,2018-08-01,8 days ago,Managed Health Care,"VP, Commercial Product Strategy & Innovation",Wellesley, MA
+307,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sales Vice President,New York, NY
+308,Aetna,2018-07-31,9 days ago,Managed Health Care,Account Director - Medicare Group Sales,Chicago, IL
+309,Aetna,2018-07-22,18 days ago,Managed Health Care,Business Project Program Manager - RN,Alpharetta, GA
+310,Aetna,2018-08-02,7 days ago,Managed Health Care,"Director, Medicare Operations",Minneapolis, MN
+311,Aetna,2018-08-08,1 day ago,Managed Health Care,Software Engineer in Test,Burlington, MA
+312,Aetna,2018-07-10,30+ days ago,Managed Health Care,Concurrent Review Nurse (Virginia Medicaid) - 51143BR,Richmond, VA
+313,Aetna,2018-07-10,30+ days ago,Managed Health Care,Underwriting Consultant (Middle Market - OK & TX),Omaha, NE
+314,Aetna,2018-07-10,30+ days ago,Managed Health Care,Medicare Sales Representative - strong base plus commission,Franklin, TN
+315,Aetna,2018-08-07,2 days ago,Managed Health Care,Bilingual Case Manager RN,Sunrise, FL
+316,Aetna,2018-07-23,17 hours ago,Managed Health Care,Sr. iOS Developer,Denver, CO
+317,Aetna,2018-07-10,30+ days ago,Managed Health Care,Provider Engagement Manager – Medicare - 48776BR,New York, NY
+318,Aetna,2018-07-10,30+ days ago,Managed Health Care,Experienced Finance Leadership Program - 51283BR,Hartford, CT
+319,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Communications Manager - 51007BR,Wellesley, MA
+320,Aetna,2018-07-10,30+ days ago,Managed Health Care,National Sales Executive - 48670BR,Dallas, TX
+321,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Scrum Master for Design Groups (UX, UI, or similar)",Denver, CO
+322,Aetna,2018-07-13,27 days ago,Managed Health Care,"Sr Dir, Medicare Sales",Minneapolis, MN
+323,Aetna,2018-07-10,30+ days ago,Managed Health Care,Design Manager - 51530BR,Hartford, CT
+324,Aetna,2018-07-20,20 days ago,Managed Health Care,Medicare Senior Project Manager,New Albany, OH
+325,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Communications Partner,Hartford, CT
+326,Aetna,2018-07-20,20 days ago,Managed Health Care,Product Program Manager (Medical),Hartford, CT
+327,Aetna,2018-07-10,30+ days ago,Managed Health Care,VA MCD Business Consultant,Richmond, VA
+328,Aetna,2018-07-10,30+ days ago,Managed Health Care,NAT Account Director,San Francisco, CA
+329,Aetna,2018-07-10,30+ days ago,Managed Health Care,National Accounts Sales Executive Texas,Sugar Land, TX
+330,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Integration Analyst,Chicago, IL
+331,Aetna,2018-07-25,15 days ago,Managed Health Care,Utilization Management Nurse Consultant,Albany, NY
+332,Aetna,2018-07-11,29 days ago,Managed Health Care,QA Test Design Engineer,Chicago, IL
+333,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr Underwriting Consultant (PEO),Hartford, CT
+334,Aetna,2018-08-01,8 days ago,Managed Health Care,Lead Analytic Consultant,Hartford, CT
+335,Aetna,2018-07-29,11 days ago,Managed Health Care,Senior Network Manager,Eagle, ID
+336,Aetna,2018-07-10,30+ days ago,Managed Health Care,Care Management Strategy Program Manager,New York, NY
+337,Aetna,2018-07-10,30+ days ago,Managed Health Care,Government and Labor Sr Sales Executive,Philadelphia, PA
+338,Aetna,2018-07-10,30+ days ago,Managed Health Care,Principal Data Scientist - Customer Experience,New York, NY
+339,Aetna,2018-07-19,21 days ago,Managed Health Care,DSNP Senior Business Analyst,New Albany, OH
+340,Aetna,2018-07-23,17 hours ago,Managed Health Care,Director Middle Market Sales and Service,Harrisburg, PA
+341,Aetna,2018-07-14,26 days ago,Managed Health Care,KS MCD Health Equity Strategy Director (51946BR),Overland Park, KS
+342,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Product Consultant,Township of Moon, PA
+343,Aetna,2018-07-10,30+ days ago,Managed Health Care,Strategic Marketing Manager - 51531BR,Wellesley, MA
+344,Aetna,2018-07-18,22 days ago,Managed Health Care,Lead Cloud Architect- Aetna Digital- 52008BR,Burlington, MA
+345,Aetna,2018-07-10,30+ days ago,Managed Health Care,KS Medicaid Reporting Manager (51836BR),Overland Park, KS
+346,Aetna,2018-08-03,6 days ago,Managed Health Care,Principal Data Scientist,San Francisco, CA
+347,Aetna,2018-07-27,13 days ago,Managed Health Care,Medicare Broker Manager,Berkeley Heights, NJ
+348,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Senior Director, Medicaid Operations (50523BR)",Charleston, WV
+349,Aetna,2018-07-17,23 days ago,Managed Health Care,JV AWH Sales Director,New York, NY
+350,Aetna,2018-07-10,30+ days ago,Managed Health Care,Application Developer,Blue Bell, PA
+351,Aetna,2018-07-11,29 days ago,Managed Health Care,Clinical Services Project Manager,Hartford, CT
+352,Aetna,2018-07-10,30+ days ago,Managed Health Care,Information Security - 3rd Party Risk Assessment,Denver, CO
+353,Aetna,2018-07-26,14 days ago,Managed Health Care,Sr. Information Security Compliance Consultant,Denver, CO
+354,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Software Engineer in Test - Aetna Health,Burlington, MA
+355,Aetna,2018-07-10,30+ days ago,Managed Health Care,Creative Director - Copy & Design,Wellesley, MA
+356,Aetna,2018-07-31,9 days ago,Managed Health Care,Quality Manager (RN) Nurse Consultant (MO),Columbia, MO
+357,Aetna,2018-07-10,30 days ago,Managed Health Care,Director of HCM Strategic Initiatives,Hartford, CT
+358,Aetna,2018-07-10,30+ days ago,Managed Health Care,Medical Economics Senior Consultant,Walnut Creek, CA
+359,Aetna,2018-07-10,30+ days ago,Managed Health Care,National Senior Account Manager,Houston, TX
+360,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Product Marketing Manager, Commercial Products - 47685BR",Chicago, IL
+361,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr. Analytics Consult.,New York, NY
+362,Aetna,2018-08-02,7 days ago,Managed Health Care,Director of Fraud Analytics,Hartford, CT
+363,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Medical Director (Aetna Medicaid),Phoenix, AZ
+364,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Product Manager, Consumer Experience",New York, NY
+365,Aetna,2018-07-10,30+ days ago,Managed Health Care,Provider Engagment Manager - Medicare,South Portland, ME
+366,Aetna,2018-08-04,5 days ago,Managed Health Care,Utilization Management (RN) Nurse Consultant,Albany, NY
+367,Aetna,2018-08-08,1 day ago,Managed Health Care,"Director, Data Engineering",Hartford, CT
+368,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Manager, Field Case Management RN Workers Compensation",Chicago, IL
+369,Aetna,2018-07-22,18 days ago,Managed Health Care,Large Group Underwriting Tech (Public & Labor),Hartford, CT
+370,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Manager, Case Management Services",Linthicum, MD
+371,Aetna,2018-07-24,16 days ago,Managed Health Care,Group Medicare Account Director,Blue Bell, PA
+372,Aetna,2018-07-10,30+ days ago,Managed Health Care,Strategic Planning Mgr,New York, NY
+373,Aetna,2018-07-26,14 days ago,Managed Health Care,Medical Economics Manager,Hartford, CT
+374,Aetna,2018-07-18,22 days ago,Managed Health Care,Software Asset Manager,Hartford, CT
+375,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Business Analyst - 51412BR,Burlington, MA
+376,Aetna,2018-07-10,30+ days ago,Managed Health Care,Director of Pharmacy - Louisiana,Baton Rouge, LA
+377,Aetna,2018-07-10,30+ days ago,Managed Health Care,National Accounts Products & Solutions Leader,McLean, VA
+378,Aetna,2018-07-19,21 days ago,Managed Health Care,"Clinical Case Manager (LCSW, LPC, LMFT, LMHC, RN)",Blue Bell, PA
+379,Aetna,2018-07-21,19 days ago,Managed Health Care,Lead Data Scientist,New York, NY
+380,Aetna,2018-07-10,30+ days ago,Managed Health Care,Marketing Operations Project Program Mgr - 51138BR,Hartford, CT
+381,Aetna,2018-07-28,12 days ago,Managed Health Care,Network Manager - Medicare VBC,Hartford, CT
+382,Aetna,2018-07-25,15 days ago,Managed Health Care,Field Case Manager-Certified Vocational Washington State - 52387BR,Fife, WA
+383,Aetna,2018-07-10,30+ days ago,Managed Health Care,"KS Medicaid Manager, Network Management (51764BR)",Overland Park, KS
+384,Aetna,2018-07-19,21 days ago,Managed Health Care,Sr Product Marketing Coordinator – Commercial Products - 52203BR,Chicago, IL
+385,Aetna,2018-07-10,30+ days ago,Managed Health Care,Chief Medical Officer (Aetna Better Health of California),San Diego, CA
+386,Aetna,2018-07-10,30+ days ago,Managed Health Care,Software Data Engineer,Burlington, MA
+387,Aetna,2018-07-10,30+ days ago,Managed Health Care,Product Owner,Burlington, MA
+388,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr ETL Developer,Amherst, NY
+389,Aetna,2018-07-10,30+ days ago,Managed Health Care,Dental Underwriting Technical Leader - 50012BR,Blue Bell, PA
+390,Aetna,2018-07-10,30+ days ago,Managed Health Care,"UM Clinical Consultant (RN, LCPC, LSCSW, LCP, LCMFT, LCAC) - KS MCD",Overland Park, KS
+391,Aetna,2018-07-10,30+ days ago,Managed Health Care,Manager of Middleware Engineering - 50216BR,Hartford, CT
+392,Aetna,2018-07-27,13 days ago,Managed Health Care,Middle Market Accounts Senior Account Manager,Parsippany, NJ
+393,Aetna,2018-07-18,22 days ago,Managed Health Care,Senior Software Engineer in DevOps - Aetna Health,Burlington, MA
+394,Aetna,2018-07-19,21 days ago,Managed Health Care,Senior Business Technical Consultant,Township of Moon, PA
+395,Aetna,2018-07-10,30+ days ago,Managed Health Care,Java Engineer,Burlington, MA
+396,Aetna,2018-07-31,9 days ago,Managed Health Care,Client Wellness (RN) Nurse Consultant Miami/Dade,Miami, FL
+397,Aetna,2018-07-12,28 days ago,Managed Health Care,"Clinical Team Lead (RN, LPC or LCSW)",Princeton, NJ
+398,Aetna,2018-07-28,12 days ago,Managed Health Care,Workers' Compensation Registered Nurse (RN) Telephonic Case Manager,Chicago, IL
+399,Aetna,2018-08-08,1 day ago,Managed Health Care,Sr Application Developer-.NET,Alpharetta, GA
+400,Aetna,2018-07-10,30+ days ago,Managed Health Care,Group Medicare Sr Account Manager,Alpharetta, GA
+401,Aetna,2018-07-23,17 hours ago,Managed Health Care,Sr. Android Developer,Denver, CO
+402,Aetna,2018-07-21,19 days ago,Managed Health Care,Sr Data Scientist,New York, NY
+403,Aetna,2018-07-10,30 days ago,Managed Health Care,Case Manager RN - KS MCD,Wichita, KS
+404,Aetna,2018-07-27,13 days ago,Managed Health Care,(RN) Case Manager,Tucson, AZ
+405,Aetna,2018-07-10,30 days ago,Managed Health Care,KS Medicaid NCQA Accreditation Manager (51952BR),Overland Park, KS
+406,Aetna,2018-07-10,30+ days ago,Managed Health Care,VA MCD Bus Project Program Mgr,Richmond, VA
+407,Aetna,2018-07-26,14 days ago,Managed Health Care,Clinical Solutions Medical Director,Allentown, PA
+408,Aetna,2018-08-07,2 days ago,Managed Health Care,Automation / ETL QA Test Design Engineer,Chicago, IL
+409,Aetna,2018-07-10,30+ days ago,Managed Health Care,Middle Market Accounts Sales Executive,Boston, MA
+410,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Senior Director, Network Management",Sugar Land, TX
+411,Aetna,2018-07-10,30+ days ago,Managed Health Care,KS Medicaid Senior Data Quality Analyst (51837BR),Overland Park, KS
+412,Aetna,2018-07-10,30+ days ago,Managed Health Care,Info Sr Security Engr,Cranberry, PA
+413,Aetna,2018-07-10,30+ days ago,Managed Health Care,"RN Field Case Mgr-Medical Palm Desert & Palm Springs, CA - 48600BR",San Bernardino, CA
+414,Aetna,2018-07-10,30 days ago,Managed Health Care,Clinical Pharmacist (Licensed Pharmacist) - KS MCD,Overland Park, KS
+415,Aetna,2018-07-10,30+ days ago,Managed Health Care,KS MCD Senior Compliance Lead,Overland Park, KS
+416,Aetna,2018-08-05,4 hours ago,Managed Health Care,Sr. Data Analyst - Database Specialist - Java,Chantilly, VA
+417,Aetna,2018-07-19,21 days ago,Managed Health Care,Case Manager (RN) Registered Nurse,High Point, NC
+418,Aetna,2018-08-08,1 day ago,Managed Health Care,Sr Application Developer-Java,Alpharetta, GA
+419,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr Actuarial Consultant - 51577BR,Omaha, NE
+420,Aetna,2018-07-10,30+ days ago,Managed Health Care,"RN Field Case Mgr-Medical Spartanburg, Greenville, Anderson, and Easley SC",Greenville, SC
+421,Aetna,2018-07-12,28 days ago,Managed Health Care,"VA MCD UM Supervisor, CHS",Richmond, VA
+422,Aetna,2018-07-10,30+ days ago,Managed Health Care,KS MCD Business Project Program Manager - Non-IT (51962BR),Overland Park, KS
+423,Aetna,2018-08-03,6 days ago,Managed Health Care,Senior Monitoring Engineer,Denver, CO
+424,Aetna,2018-07-10,30+ days ago,Managed Health Care,Utilization Management Clinician - Behavioral Health,Sandy, UT
+425,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Director, UX",Burlington, MA
+426,Aetna,2018-07-10,30+ days ago,Managed Health Care,Utilization Managment (RN) Nurse Consultant,Albany, NY
+427,Aetna,2018-07-24,16 days ago,Managed Health Care,"Dir, Health Care Quality Mgmt. / HEDIS",Hartford, CT
+428,Aetna,2018-07-18,22 days ago,Managed Health Care,Bus Project Program Mgr,Hartford, CT
+429,Aetna,2018-07-25,15 days ago,Managed Health Care,"Web Developer (javascript, .Net, C#)",Hartford, CT
+430,Aetna,2018-07-10,30+ days ago,Managed Health Care,Middle Market Accounts Senior Sales Executive,Boston, MA
+431,Aetna,2018-07-10,30 days ago,Managed Health Care,KS Medicaid HEDIS Manager (51953BR),Overland Park, KS
+432,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Project Lead Reporting and Analytics Team (51188BR),Chicago, IL
+433,Aetna,2018-08-01,8 days ago,Managed Health Care,DevOps Engineer,Alpharetta, GA
+434,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Sr Director, Product Management Strategy Health Care",Denver, CO
+435,Aetna,2018-08-04,5 days ago,Managed Health Care,Lead Business Consultant,Hartford, CT
+436,Aetna,2018-07-18,22 days ago,Managed Health Care,"RN Field Case Mgr-Medical Jacksonville, FL - 52187BR",Jacksonville, FL
+437,Aetna,2018-07-11,29 days ago,Managed Health Care,"Case Manager RN Stafford, Dumfries, Woodbridge, Lake Ridge, Manassas - 52108BR",Chantilly, VA
+438,Aetna,2018-08-04,5 days ago,Managed Health Care,Quality Management Nurse RN Consultant - 52212BR,New Albany, OH
+439,Aetna,2018-07-28,12 days ago,Managed Health Care,Financial Director - Medicare,Hartford, CT
+440,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Children's System of Care Administrator (LCSW, LMFT, LAC, LPC, PhD, PsyD) - KS MCD - 51841BR",Overland Park, KS
+441,Aetna,2018-08-03,6 days ago,Managed Health Care,Senior Application Developer - DevOps 52609BR,Downers Grove, IL
+442,Aetna,2018-07-19,21 days ago,Managed Health Care,Care Management Supervisor,New Albany, OH
+443,Aetna,2018-07-10,30+ days ago,Managed Health Care,SDET Test Automation Engineer,Denver, CO
+444,Aetna,2018-07-10,30+ days ago,Managed Health Care,Android Architect,Denver, CO
+445,Aetna,2018-07-10,30+ days ago,Managed Health Care,Nurse Consultant (RN),Hartford, CT
+446,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Sr Dir, Proj&Process Mgmt",Hartford, CT
+447,Aetna,2018-07-20,20 days ago,Managed Health Care,Sr. Informatics Lead Tableau Specialist (52189BR),Hartford, CT
+448,Aetna,2018-07-21,19 days ago,Managed Health Care,Underwriting Tech Leader (Dental/Vision) - 52304BR,Blue Bell, PA
+449,Aetna,2018-07-10,30+ days ago,Managed Health Care,Field Nurse Care Manager,Fort Worth, TX
+450,Aetna,2018-07-12,28 days ago,Managed Health Care,"Case Manager RN, Nursing Facility",Toledo, OH
+451,Aetna,2018-07-10,30+ days ago,Managed Health Care,"RN Field Case Manager Palm Springs/Desert, CA",Palm Springs, CA
+452,Aetna,2018-07-14,26 days ago,Managed Health Care,Licensed Clinical Counselor (EAP - Employee Assistance Program) - [MULTIPLE OPENINGS AVAILABLE!],Austin, TX
+453,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Sr. Director, Clinical Impact Analytics",Hartford, CT
+454,Aetna,2018-07-28,12 days ago,Managed Health Care,Architect - Forensic & Architecture Platform - 51826BR,Burlington, MA
+455,Aetna,2018-08-07,2 days ago,Managed Health Care,Strategic Commercial Business Advisor - 49493BR,Hartford, CT
+456,Aetna,2018-07-10,30 days ago,Managed Health Care,"KS Medicaid Director, Quality Management (51951BR)",Overland Park, KS
+457,Aetna,2018-07-10,30+ days ago,Managed Health Care,Commercial Product & Solutions Manager,Wellesley, MA
+458,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr. Account Executive/ Eastern Territory Manager,Wellesley, MA
+459,Aetna,2018-07-10,30+ days ago,Managed Health Care,Healthcare Quality Management Project Manager - NY Medicaid Health Plan (51195BR),New York, NY
+460,Aetna,2018-08-03,6 days ago,Managed Health Care,SQL Developer Informatics Lead (52416BR),Phoenix, AZ
+461,Aetna,2018-07-10,30+ days ago,Managed Health Care,Audit Project Manager (Government),Hartford, CT
+462,Aetna,2018-08-07,2 days ago,Managed Health Care,IT Senior Project Manager - 52639BR,Hartford, CT
+463,Aetna,2018-07-10,30+ days ago,Managed Health Care,Behavioral Health Case Management Coordinator Travel Kalamazoo,Kalamazoo, MI
+464,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Software Developer (Server),Denver, CO
+465,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr. Dir. Data Science,New York, NY
+466,Aetna,2018-07-26,14 days ago,Managed Health Care,Principal Data Engineer,Wellesley, MA
+467,Aetna,2018-07-13,27 days ago,Managed Health Care,Chief Medical Officer (Aetna Medicaid Kansas) KS MCD,Overland Park, KS
+468,Aetna,2018-07-10,30+ days ago,Managed Health Care,Pharmacy Director (New Medicaid Business),Phoenix, AZ
+469,Aetna,2018-07-10,30+ days ago,Managed Health Care,"RN Field Case Manager Hastings, NE",Kearney, NE
+470,Aetna,2018-07-10,30+ days ago,Managed Health Care,Product Marketing Director,Wellesley, MA
+471,Aetna,2018-07-17,23 days ago,Managed Health Care,RN Field Case Mgr-Medical Burbank/Glendale/Pasadena area of Southern CA - 52182BR,Chatsworth, CA
+472,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Senior Director, Sales Effectiveness - 48491BR",New York, NY
+473,Aetna,2018-08-01,8 days ago,Managed Health Care,Bilingual preferred - Case Manager RN,New York, NY
+474,Aetna,2018-07-24,16 days ago,Managed Health Care,Sr Data Engineer,Hartford, CT
+475,Aetna,2018-08-04,5 days ago,Managed Health Care,"Business Consultant (RN) Registered Nurse (CHE) Certfied Health Educator Austin, TX - 52548BR",Austin, TX
+476,Aetna,2018-07-10,30+ days ago,Managed Health Care,Information Security Engineer,Hartford, CT
+477,Aetna,2018-07-11,29 days ago,Managed Health Care,KS Medicaid Quality Management Manager (52090BR),Overland Park, KS
+478,Aetna,2018-07-10,30 days ago,Managed Health Care,QM Nurse Consultant (RN) - KS MCD - 51954BR,Overland Park, KS
+479,Aetna,2018-07-10,30+ days ago,Managed Health Care,Prior Authorization Nurse (LPN/LVN) - KS MCD,Overland Park, KS
+480,Aetna,2018-07-10,30+ days ago,Managed Health Care,Marketing Manager - Health and Clinical Services 51379BR,Hartford, CT
+481,Aetna,2018-07-10,30+ days ago,Managed Health Care,RN (Registered Nurse) Health Coach Consultant - 43515BR,Sugar Land, TX
+482,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Emergency Services System of Care Administrator (RN, LPC, LCSW) - KS MCD - 51843BR",Overland Park, KS
+483,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr Business Consultant / Change Agent,Hartford, CT
+484,Aetna,2018-07-20,20 days ago,Managed Health Care,Sr. Front-End Developer,Burlington, MA
+485,Aetna,2018-08-03,6 days ago,Managed Health Care,Clinical Program Consultant (RN) Registered Nurse,Hartford, CT
+486,Aetna,2018-07-10,30+ days ago,Managed Health Care,Digital Product Manager / Product Owner,Wellesley, MA
+487,Aetna,2018-07-10,30+ days ago,Managed Health Care,Acute Programs Senior Product Manager,New York, NY
+488,Aetna,2018-07-10,30+ days ago,Managed Health Care,QA Automation Test Design Engi- 51488BR,Scottsdale, AZ
+489,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Adult System of Care Administrator (LCSW, LMFT, LAC, LPC, PhD, RN) - KS MCD - 51884BR",Overland Park, KS
+490,Aetna,2018-07-28,12 days ago,Managed Health Care,"Senior Product Mgr, Mobile",New York, NY
+491,Aetna,2018-07-23,17 days ago,Managed Health Care,"Manager, Software Engineering",Burlington, MA
+492,Aetna,2018-07-10,30 days ago,Managed Health Care,Case Manager RN (Registered Nurse) - KS MCD,Overland Park, KS
+493,Aetna,2018-07-10,30+ days ago,Managed Health Care,Actuarial Senior Director,Hartford, CT
+494,Aetna,2018-07-18,22 days ago,Managed Health Care,Senior C# .NET Application Dev,Hartford, CT
+495,Aetna,2018-07-10,30+ days ago,Managed Health Care,Cloud Engineer - AWS,Denver, CO
+496,Aetna,2018-07-10,30+ days ago,Managed Health Care,Lead Business Consultant/Change Agent,Hartford, CT
+497,Aetna,2018-07-10,30+ days ago,Managed Health Care,"RN Field Case Manager Savannah, GA & North Florida",Savannah, GA
+498,Aetna,2018-07-10,30+ days ago,Managed Health Care,Financial Informatics Manager (47325BR),Hartford, CT
+499,Aetna,2018-08-07,2 days ago,Managed Health Care,"Case Manager Registered Nurse (RN) Hamilton County, OH",Cincinnati, OH
+500,Aetna,2018-07-10,30+ days ago,Managed Health Care,Audit Project Manager (Corporate),Hartford, CT
+501,Aetna,2018-07-24,16 days ago,Managed Health Care,Clinical Pharmacy Manager,Phoenix, AZ
+502,Aetna,2018-07-12,28 days ago,Managed Health Care,Utilzation Management Nurse RN Consultant (Registered Nurse) - 52066BR,Allentown, PA
+503,Aetna,2018-07-12,28 days ago,Managed Health Care,Case Manager (RN) Registered Nurse Or Licensed Social Worker Behavioral Health Beckley/Princeton area of West Virginia,Charleston, WV
+504,Aetna,2018-07-11,29 days ago,Managed Health Care,Medical Director (Big Sky Region),Denver, CO
+505,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Sr. Director, Advocacy Analytics",Phoenix, AZ
+506,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Strategic Product Manager, Director",Burlington, MA
+507,Aetna,2018-07-10,30+ days ago,Managed Health Care,Full Stack Security Engineer,Denver, CO
+508,Aetna,2018-07-17,23 days ago,Managed Health Care,Infrastructure Automation Developer,Hartford, CT
+509,Aetna,2018-07-14,26 days ago,Managed Health Care,"Clinical Case Manager BH (LCSW, LPC, LCP, LISW) - KS MCD",Overland Park, KS
+510,Aetna,2018-07-18,22 days ago,Managed Health Care,Salesforce Solution Designer- 46696BR,Hartford, CT
+511,Aetna,2018-07-21,19 days ago,Managed Health Care,Salesforce Senior Business Analyst,Hartford, CT
+512,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr. Medical Cost Analyst,Hartford, CT
+513,Aetna,2018-07-10,30+ days ago,Managed Health Care,Lead Data Modeling Engineer,Burlington, MA
+514,Aetna,2018-07-10,30+ days ago,Managed Health Care,"RN Field Case Mgr-Medical Bakersfield/Kern County, CA - 51092BR",Fresno, CA
+515,Aetna,2018-07-19,21 days ago,Managed Health Care,Director Clinical Health Svcs,New Albany, OH
+516,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Informatics Consultant/Lead (51986BR),Hartford, CT
+517,Aetna,2018-07-10,30+ days ago,Managed Health Care,Principal Marketing Analytics,Hartford, CT
+518,Aetna,2018-07-10,30+ days ago,Managed Health Care,Registered Nurse Continuum of Care Manager,New York, NY
+519,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Workers Compensation RN Field Case Mgr-Medical San Antonio/Laredo/Del Rio or Houston, TX - 51584BR",Houston, TX
+520,Aetna,2018-07-10,30+ days ago,Managed Health Care,(Registered Nurse) RN Senior Clinical Strategist - 51892BR,Casa Grande, AZ
+521,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr Medicare Informatics Manager,Hartford, CT
+522,Aetna,2018-07-10,30+ days ago,Managed Health Care,Lead Business Consultant - Lean Six Sigma - 48846BR,Hartford, CT
+523,Aetna,2018-07-14,26 days ago,Managed Health Care,Lead Marketing Analytics Consultant,Hartford, CT
+524,Aetna,2018-07-10,30 days ago,Managed Health Care,"Manager, Case Management (RN) KS MCD - 52063BR",Wichita, KS
+525,Aetna,2018-07-10,30+ days ago,Managed Health Care,"SR Director, Finance (Medicaid Plan CFO) - 50616BR",Richmond, VA
+526,Aetna,2018-07-12,28 days ago,Managed Health Care,"RN Field Case Mgr-Medical HASTINGS, KEARNEY NORTH PLATTE AREA COVERING MID TO WESTERN, NE.",Lincoln, NE
+527,Aetna,2018-07-10,30 days ago,Managed Health Care,"Behavioral Health Support Director (LCP, PMHN) - KS MCD - 51939BR",Overland Park, KS
+528,Aetna,2018-07-17,23 days ago,Managed Health Care,Category Manager – IT Labor & Consulting Services 52194BR.,Scottsdale, AZ
+529,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Systems Engineer - Linux,Phoenix, AZ
+530,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Digital UX Designer - 51404BR,Wellesley, MA
+531,Aetna,2018-07-25,15 days ago,Managed Health Care,"Workers Comp Field Case Mgr-Medical (RN) Registered Nurse Fort Myers, FL - 52356BR",Fort Myers, FL
+532,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Supervisor, Clinical Health Services (RN)",Doral, FL
+533,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior ServiceNow Developer - 50975BR,Hartford, CT
+534,Aetna,2018-07-10,30+ days ago,Managed Health Care,Key Accounts Solutions Director (Large Group) (Product & Solutions),Washington, DC
+535,Aetna,2018-07-16,24 days ago,Managed Health Care,"Project Manager/Lead - New tech marketing, content and user engagement - 49254BR",Wellesley, MA
+536,Aetna,2018-08-02,7 days ago,Managed Health Care,Lead Enterprise Architect - Analytics- 52613BR,Burlington, MA
+537,Aetna,2018-08-08,1 day ago,Managed Health Care,"Field Case Mgr-Medical (RN) Registered Nurse Workers Comp Springfield, MA",Wellesley, MA
+538,Aetna,2018-07-10,30+ days ago,Managed Health Care,"RN Field Case Manager Berkely, Alameda, Piedmont, Emeryville, East Bay & Oakland, CA",Oakland, CA
+539,Aetna,2018-07-10,30+ days ago,Managed Health Care,Lead Data Engineer,Hartford, CT
+540,Aetna,2018-07-11,29 days ago,Managed Health Care,"Long Term Services & Support Director (LCPC, LCCSW, RN, LCP, LCMFT, LCAC) - KS MCD - 51925BR",Overland Park, KS
+541,Aetna,2018-07-18,22 days ago,Managed Health Care,Clinical Business Projects/ Programs Sr. Manager,New York, NY
+542,Aetna,2018-07-28,12 days ago,Managed Health Care,Senior Architect - Lead Design Architect - 52193BR,Burlington, MA
+543,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Sr Strategic Sourcing Analyst (Marketing, Media, Print) -50602BR",Hartford, CT
+544,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Medical Director (WAH in Southern California but heavy regional travel),Santa Ana, CA
+545,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Registered Nurse Supervisor, Clinical Health Services",Princeton, NJ
+546,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr. Big Data Engineer,Burlington, MA
+547,Aetna,2018-07-10,30+ days ago,Managed Health Care,Lead User-Experience (UX) Designer,Denver, CO
+548,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior iOS Architect,Denver, CO
+549,Aetna,2018-07-26,14 days ago,Managed Health Care,Sr. Reporting Ops. Analysts / VBA Developer,Chantilly, VA
+550,Aetna,2018-07-22,18 days ago,Managed Health Care,Utilization Management Supervisor (RN),New Albany, OH
+551,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr Application Tableau Developer,Hartford, CT
+552,Aetna,2018-07-17,23 days ago,Managed Health Care,"Director Care Management - Service Coordination (LCSW, LCPC, RN, LCP, LCMFT, LCAC) - KS MCD - 51963BR",Overland Park, KS
+553,Aetna,2018-07-23,17 days ago,Managed Health Care,Sr. Front End Web App Developer- 52321BR,Burlington, MA
+554,Aetna,2018-07-20,20 days ago,Managed Health Care,Sr. Java Integration Developer,Burlington, MA
+555,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Sales Executive - Medicare Group Retiree New Business Sales,Chicago, IL
+556,Aetna,2018-07-18,22 days ago,Managed Health Care,Concurrent Review Supervisor (RN) - KS MCD - 52093BR,Overland Park, KS
+557,Aetna,2018-07-10,30+ days ago,Managed Health Care,Registered Nurse (RN) Utilization Management (UM) Manager - KS MCD - 51680BR,Overland Park, KS
+558,Aetna,2018-07-14,26 days ago,Managed Health Care,Lead Big Data Software Engineer - 52191BR,Hartford, CT
+559,Aetna,2018-08-04,5 days ago,Managed Health Care,Sr SQL Informatics Business Systems Analyst (52673BR),Hartford, CT
+560,Aetna,2018-07-23,17 days ago,Managed Health Care,Sr. Java Developer (Web Server) - 52322BR,Burlington, MA
+561,Aetna,2018-07-19,21 days ago,Managed Health Care,"Field Case Mgr-Medical (RN) West of Atlanta, GA - 52298BR",Atlanta, GA
+562,Aetna,2018-07-10,30+ days ago,Managed Health Care,Registered Nurse (RN) - Case Manager,New York, NY
+563,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Cloud Engineer - AWS,Denver, CO
+564,Aetna,2018-07-17,23 days ago,Managed Health Care,"Licensed Foster Care Coordinator (LCSW, LCPC, RN, LCP, LCMFT, LCAC) - KS MCD - 51960BR",Overland Park, KS
+565,Aetna,2018-08-04,5 days ago,Managed Health Care,Senior Cloud Architect- 52580BR,Burlington, MA
+566,Aetna,2018-07-10,30 days ago,Managed Health Care,"Sr Director, Specialty Underwriting (Dental/Vision) - 52017BR",Hartford, CT
+567,Aetna,2018-07-12,28 days ago,Managed Health Care,"Care Management Supervisor (LCSW, LCPC, RN, LCP, LCMFT, LCAC) KS MCD - 51959BR",Overland Park, KS
+568,Aetna,2018-07-10,30+ days ago,Managed Health Care,Registered Nurse (RN) Supervisor Prior Authorization - KS MCD - 51761BR,Overland Park, KS
+569,Aetna,2018-07-10,30 days ago,Managed Health Care,"Licensed Transfer of Care Coordinator (LCSW, LCPC, RN, LCP, LCMFT, LCAC) - KS MCD - 51961BR",Overland Park, KS
+570,Aetna,2018-07-19,21 days ago,Managed Health Care,Behavioral Health Medical Director (KS MCD),Overland Park, KS
+571,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Software Architect,New York, NY
+572,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr. DevOps Systems Engineer/Digital Programs,Alpharetta, GA
+573,Aetna,2018-07-10,30+ days ago,Managed Health Care,Lead Software/Big Data Engineer,Burlington, MA
+574,Aetna,2018-08-04,5 days ago,Managed Health Care,Lead Data Analytics Architect - 52579BR,Burlington, MA
+575,Aetna,2018-07-12,28 days ago,Managed Health Care,"Supervisor, Community Service Coordinator (LCSW, LCPC, RN, LCP, LCMFT, LCAC) KS MCD - 51964BR",Overland Park, KS
+576,Aetna,2018-07-10,30+ days ago,Managed Health Care,Registered Nurse (RN) VP/Director Medical Management - KS MCD - 51631BR,Overland Park, KS
+577,Aetna,2018-07-10,30+ days ago,Managed Health Care,Principal Cloud Engineer (Big,Burlington, MA
+578,Aetna,2018-07-10,30+ days ago,Managed Health Care,Medical Director - Behavioral Health,Richmond, VA
+579,Aetna,2018-07-26,14 days ago,Managed Health Care,Sr. DevOps Engineer- Big Data Team- 52350BR.,Burlington, MA
+580,Aetna,2018-07-19,21 days ago,Managed Health Care,Medical Director (KS MCD LTSS Clinical Officer MD),Overland Park, KS
+581,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Sr Business Consultant / Sr. Project Manager, PMP",Hartford, CT
+582,Aetna,2018-07-10,30+ days ago,Managed Health Care,Medical Director (Spinal Subject Matter Expert),Albany, NY
+583,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Cloud Engineer (Big Data) - 49930BR,Burlington, MA
+584,Aetna,2018-07-10,30+ days ago,Managed Health Care,Lead Cloud Engineer (Big Data) - 49929BR,Burlington, MA
+585,Aetna,2018-07-10,30+ days ago,Managed Health Care,Medical Director (Value Based Contracting),Pittsburgh, PA
+586,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Cloud Engineer (Cloud Platforms) - 49932BR,Burlington, MA
+587,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr. Software Engineer in Test- Data Engineering,Burlington, MA
+588,Aetna,2018-07-27,13 days ago,Managed Health Care,Dual Eligible - Special Needs Plan Senior Business Manager - PA/ WV / DE (52461BR),Blue Bell, PA
+589,Aetna,2018-07-10,30+ days ago,Managed Health Care,Lead Cloud Engineer (Cloud Platform) - 49931BR,Burlington, MA
+590,Aetna,2018-07-19,21 days ago,Managed Health Care,Medical Director (KS MCD LTSS Clinical Officer MD),Overland Park, KS
+591,Aetna,2018-07-10,30+ days ago,Managed Health Care,"Sr Business Consultant / Sr. Project Manager, PMP",Hartford, CT
+592,Aetna,2018-07-10,30+ days ago,Managed Health Care,Medical Director (Spinal Subject Matter Expert),Albany, NY
+593,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Cloud Engineer (Big Data) - 49930BR,Burlington, MA
+594,Aetna,2018-07-10,30+ days ago,Managed Health Care,Lead Cloud Engineer (Big Data) - 49929BR,Burlington, MA
+595,Aetna,2018-07-10,30+ days ago,Managed Health Care,Medical Director (Value Based Contracting),Pittsburgh, PA
+596,Aetna,2018-07-10,30+ days ago,Managed Health Care,Senior Cloud Engineer (Cloud Platforms) - 49932BR,Burlington, MA
+597,Aetna,2018-07-10,30+ days ago,Managed Health Care,Sr. Software Engineer in Test- Data Engineering,Burlington, MA
+598,Aetna,2018-07-27,13 days ago,Managed Health Care,Dual Eligible - Special Needs Plan Senior Business Manager - PA/ WV / DE (52461BR),Blue Bell, PA
+599,Aetna,2018-07-10,30+ days ago,Managed Health Care,Lead Cloud Engineer (Cloud Platform) - 49931BR,Burlington, MA
